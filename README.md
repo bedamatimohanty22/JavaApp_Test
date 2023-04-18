@@ -2,9 +2,10 @@
 Test App for Bus Stop functionality
 
 
-This application is written in Java using Java and json library functions. External library required to run the code is included in the /lib folder.
+This application is written in Java using Java and json library functions. External library required to run the code is included in the /lib folder. 
 
 When the code is executed, it connects to a couple of APIs from Trafiklab's Open API mentioned on this link : http://www.trafiklab.se/api/sl-hallplatser-och-linjer-2
+The API keys used for access are registered under Trafiklab's Open API.
 
 The application finds Top 10 bus lines having the most bus stops on their route. It also lists the name of every bus stop of these Top 10 bus lines. There is no requirement on how the bus stops are sorted.  
 
